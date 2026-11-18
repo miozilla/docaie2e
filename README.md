@@ -16,4 +16,4 @@ docaie2e : | End-to-End Data Capture Pipeline |  Document AI, Process Invoices, 
 ## Document AI End-to-End Data Capture Pipeline
 ...ci/cd in progress
 
-![docaie2e000.png](./media/faqapigateway000.png)
+![docaie2e000.png](./media/docaie2e000.png)
